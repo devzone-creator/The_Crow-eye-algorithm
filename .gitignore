@@ -1,5 +1,5 @@
-# Compiled Java files
-*.class
+# Compiled Java files (keeping .class files for hackathon submission)
+# *.class
 *.jar
 *.war
 *.ear
